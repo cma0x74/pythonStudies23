@@ -8,4 +8,4 @@ b = eval(input('fornece mais um valor em metros '))
 area = (a * b)
 tinta = (area / 2)
 
-print(f'são necessários {tinta}L de tinta para pintar a área de {area}m')
+print(f'são necessários {tinta}L de tinta para pintar a área de {area}m²')
